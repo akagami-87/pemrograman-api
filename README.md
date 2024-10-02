@@ -1,10 +1,10 @@
 ## Data Diri
 
-| Field          | Data                                                      |
-|----------------|-----------------------------------------------------------|
-| NIM            | 22104410012                                               |
-| Nama Lengkap   | [ALDY IBNU FAIZAL](https://github.com/Aldyfaisal80)        |
-| Kelas          | TI-5A                                                     |
+| Field          | Data                                                                      |
+|----------------|---------------------------------------------------------------------------|
+| NIM            | 22104410067                                                               |
+| Nama Lengkap   | [MUHAMMAD FIRZA KHOIRUDIN](https://github.com/akagami-87)                 |
+| Kelas          | TI-5B                                                                     |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.S.T., M.Tr.T](https://github.com/fariedrahmat) |
 
 ## PEMROGRAMAN API
